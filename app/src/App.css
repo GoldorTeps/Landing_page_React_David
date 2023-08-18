@@ -16,6 +16,7 @@
 }
 
 .Jumbotron {
+  height: 500px;
   background-color: #f8f9fa;
   padding: 20px;
   margin-top: 20px; 
